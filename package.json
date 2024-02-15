@@ -11,6 +11,9 @@
     },
     "homepage": "https://hackerwasii.com",
     "license": "MIT",
+	"engines": {
+		"vscode": "^1.65.0"
+	},
 	"keywords": [
 		"jinja",
 		"jinja2",
