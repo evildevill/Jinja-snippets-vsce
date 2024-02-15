@@ -1,10 +1,13 @@
 {
 	"name": "jinja-snippets-flask",
-	"displayName": "Jinja Snippets",
+	"displayName": "Jinja Snippets flask",
 	"description": "Jinja Snippets flask is a fast, and attractive way to build Jinja / HTML templates in isual Studio Code",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"icon": "logo.png",
 	"publisher": "WaseemAkram",
+	"sponsor": {
+		"url": "https://www.patreon.com/hackerwasii"
+	},
     "repository": "https://github.com/evildevill/Jinja-snippets-vsce.git",
     " bugs": {
         "url": "https://github.com/evildevill/Jinja-snippets-vsce/issues"
