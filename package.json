@@ -1,8 +1,8 @@
 {
 	"name": "jinja-snippets-flask",
 	"displayName": "Jinja Snippets flask",
-	"description": "Jinja Snippets flask is a fast, and attractive way to build Jinja / HTML templates in isual Studio Code",
-	"version": "1.0.3",
+	"description": "Jinja Snippets Flask is a powerful and comprehensive extension designed to boost your productivity when working with Flask and Jinja in Visual Studio Code.",
+	"version": "1.0.4",
 	"icon": "logo.png",
 	"publisher": "WaseemAkram",
 	"sponsor": {
