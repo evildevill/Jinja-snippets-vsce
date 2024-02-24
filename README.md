@@ -104,7 +104,7 @@ If you like this extension, you can support me by:
 - [Support me on Patreon](https://www.patreon.com/hackerwasii)
 - [Follow me on Facebook](https://facebook.com/hackerwasii)
 - [Follow me on Instagram](https://instagram.com/wasii_254)
-- Your support is greatly appreciated! 🙏
+- Your support is greatly appreciated! 💙
 
 **Enjoy!**
 
